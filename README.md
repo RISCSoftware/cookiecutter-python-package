@@ -1,3 +1,5 @@
+**ATTENTATION: This repository is archived. It has been moved to: https://github.com/prescriptiveanalytics/python-package-template**
+
 # Poetry Cookiecutter
 
 A simple [Cookiecutter](https://github.com/cookiecutter/cookiecutter) template for scaffolding Python packages and apps. The goal is to provide sane defaults for any application.
